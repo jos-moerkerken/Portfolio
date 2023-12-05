@@ -1,0 +1,77 @@
+Title: Home
+
+----
+
+Usp: Product design  · UX UI design · Motion design
+
+----
+
+Herosubtitle: ...and a beginning front-end developer by night.
+
+----
+
+Heroimage: - file://Ymg6jzTbNeGwvRqE
+
+----
+
+Introtext: Bacon ipsum dolor amet venison jowl picanha pork chop ham hock. Landjaeger sirloin pork chop burgdoggen sausage spare ribs, meatball turkey meatloaf bacon filet mignon t-bone. Jerky kielbasa flank, alcatra fatback shankle meatloaf. Biltong porchetta doner chislic. Bacon pork beef ribs cupim.
+
+----
+
+Navimage1: - file://hPgQlZ0VpsD8zvtt
+
+----
+
+Navimage2: - file://8ZdddBUnb1Sc59wF
+
+----
+
+Navimage3: - file://iley0wjpQQhJhxVu
+
+----
+
+Navimage4: - file://kl1kuPKKvgarPW4r
+
+----
+
+Fullvideo: - file://6QbDqtNkGXBNr78q
+
+----
+
+Projectvideo1: - file://8V7YAdQZuGz4lTzB
+
+----
+
+Projectvideo2: - file://5gRoVjFfmJpRLu3P
+
+----
+
+Projectvideo3: - file://qYQ4YlOmNi1jv2jU
+
+----
+
+Scrollquote: "Ik heb het nog nooit gedaan, dus ik denk dat ik het wel kan."
+
+----
+
+Footerimage: - file://WXnfSYK47HajNt4X
+
+----
+
+Footertext: Bacon ipsum dolor amet venison jowl picanha pork chop ham hock. Landjaeger sirloin pork chop burgdoggen sausage spare ribs, meatball turkey meatloaf bacon filet mignon t-bone. Jerky kielbasa flank, alcatra fatback shankle meatloaf. Biltong porchetta doner chislic. Bacon pork beef ribs cupim.
+
+----
+
+Herointro: Bacon ipsum dolor amet fatback doner beef ribs beef bresaola. Corned beef cow spare ribs pig t-bone, chuck rump porchetta landjaeger shoulder. Strip steak pork loin tongue, buffalo hamburger sirloin alcatra landjaeger corned beef swine cupim shankle turkey.
+
+----
+
+Herobutton: Neem contact op
+
+----
+
+Description: Bacon ipsum dolor amet venison jowl picanha pork chop ham hock. Landjaeger sirloin pork chop burgdoggen sausage spare ribs, meatball turkey meatloaf bacon filet mignon t-bone.
+
+----
+
+Uuid: uG7KGLECIhlkNyGn

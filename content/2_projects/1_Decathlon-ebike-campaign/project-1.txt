@@ -1,0 +1,119 @@
+Title: Decathlon E-bike campaign
+
+----
+
+Ebikeheader1: - file://TuZeu6AcgKHl1xC5
+
+----
+
+Ebikeheader2: - file://jfxhvNI4P6B9xeHX
+
+----
+
+Scrolltitle1: Research fase
+
+----
+
+Scrolltext1:
+
+Het doel van deze e-bike campagne was om meer aandacht te krijgen op de e-bikes van Decathlon. Hierbij werden er 2 e-bikes uitgelicht: de Elops 900E en de Cargo R500. Omdat dit 2 totaal ander soort fietsen van elkaar zijn, zijn we begonnen met het in kaart brengen van de doelgroep van beide e-bikes. Waar de Cargo fiets vooral gericht was om een gezin met kinderen, was de 900E meer gericht op jongeren waarbij de looks van de fiets een grote rol spelen.<br>
+<br>
+Per fiets werd in kaart gebracht...
+<br>...wat de behoeftes zijn van de doelgroep.
+<br>...naar welke kenmerken en eigenschapen gezocht werd van de fiets. 
+<br>...welke informatie de klant nodig heeft bij het maken van een keuze bij een e-bike.
+
+----
+
+Scrollimage1: - file://9yc8TEugSRDk7y1R
+
+----
+
+Scrolltitle2: Wireframing
+
+----
+
+Scrolltext2:
+
+Nadat het duidelijk was hoe de doelgroep eruit zag voor beide fietsen, gingen we aan de slag met de structuur van de pagina. Hierbij lag de focus op het prioriteren van de informatie, maar ook op de interactie van de pagina.<br>
+<br>
+
+----
+
+Scrollimage2: - file://uK6OB3Vfm4FNlmtl
+
+----
+
+Scrolltitle3: Moodboards & styling
+
+----
+
+Scrolltext3: Samen met het marketing & communicatie team en design team, zijn we aan de slag gegaan met de styling die gehanteerd zou worden tijdens de campagne. Deze styling was immers niet alleen belangrijk voor de landingspagina, maar uiteraard voor de gehele customer journey van de klant. Zo wilden we herkenbaarheid creëren door de styling op paid social, in de winkel en online te gebruiken.
+
+----
+
+Scrollimage3: - file://tAHChFty1D15rMQ9
+
+----
+
+Scrolltitle4: UI design & animating
+
+----
+
+Scrolltext4: Bacon ipsum dolor amet shoulder meatball turkey sausage, short ribs swine turducken cupim sirloin shank tri-tip ham hock. Landjaeger short ribs ham sirloin porchetta beef ribs. Pork chop ribeye meatball burgdoggen flank tongue short ribs pork loin chislic. Chuck drumstick leberkas pig cupim filet mignon flank sausage.
+
+----
+
+Scrollimage4: - file://TrvktYh8p4WPfeAL
+
+----
+
+Fullvideo: - file://kheJu5fEafjfhAyu
+
+----
+
+Project1video: - file://kheJu5fEafjfhAyu
+
+----
+
+Project1title: Het proces
+
+----
+
+Project1image: - file://i8AQp8YvvqKGexEO
+
+----
+
+Project1text:
+
+Bacon ipsum dolor amet venison jowl picanha pork chop ham hock. Landjaeger sirloin pork chop burgdoggen sausage spare ribs, meatball turkey meatloaf bacon filet mignon t-bone. Jerky kielbasa flank, alcatra fatback shankle meatloaf. Biltong porchetta doner chislic. Bacon pork beef ribs cupim. Bacon ipsum dolor amet venison jowl picanha pork chop ham hock. Landjaeger sirloin pork chop burgdoggen sausage spare ribs, meatball turkey meatloaf bacon filet mignon t-bone. Jerky kielbasa flank, alcatra fatback shankle meatloaf. Biltong porchetta doner chislic. Bacon pork beef ribs cupim.
+<br><br>
+Bacon ipsum dolor amet venison jowl picanha pork chop ham hock. Landjaeger sirloin pork chop burgdoggen sausage spare ribs, meatball turkey meatloaf bacon filet mignon t-bone. Jerky kielbasa flank, alcatra fatback shankle meatloaf. Biltong porchetta doner chislic. Bacon pork beef ribs cupim. Bacon ipsum dolor amet venison jowl picanha pork chop ham hock. Landjaeger sirloin pork chop burgdoggen sausage spare ribs, meatball turkey meatloaf bacon filet mignon t-bone. Jerky kielbasa flank, alcatra fatback shankle meatloaf. Biltong porchetta doner chislic. Bacon pork beef ribs cupim.
+
+----
+
+Project1macbook: - file://Ipy3qlBGNcIY0o2Q
+
+----
+
+Client: Decathlon Nederland
+
+----
+
+Type: Branding / landing page
+
+----
+
+Role: UX UI - Product design
+
+----
+
+Topic: E-bike campaign
+
+----
+
+Introtext: Bacon ipsum dolor amet venison jowl picanha pork chop ham hock. Landjaeger sirloin pork chop burgdoggen sausage spare ribs, meatball turkey meatloaf bacon filet mignon t-bone. Jerky kielbasa flank, alcatra fatback shankle meatloaf. Biltong porchetta doner chislic. Bacon pork beef ribs cupim. Introtext: Bacon ipsum dolor amet venison jowl picanha pork chop ham hock. Landjaeger sirloin pork chop burgdoggen sausage spare ribs, meatball turkey meatloaf bacon filet mignon t-bone. Jerky kielbasa flank, alcatra fatback shankle meatloaf. Biltong porchetta doner chislic. Bacon pork beef ribs cupim.
+
+----
+
+Uuid: aV63oPyQVA7fgqSv

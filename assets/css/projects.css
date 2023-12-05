@@ -1,0 +1,10 @@
+section.projects-title h1 {
+    padding-top: 24rem;
+    padding-bottom: 12rem;
+}
+
+section.projects-title h1 {
+    font-size: 100px;
+    color: var(--clr-blue-1);
+    line-height: 1.25;
+}

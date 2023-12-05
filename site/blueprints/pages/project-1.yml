@@ -1,0 +1,114 @@
+title: Project 1
+
+columns:  
+
+# -------  Hero section  -------
+
+  - width: 1/1
+    fields: 
+      ebikeHeader:
+        label: Header afbeeldingen
+        type: headline
+  - width: 1/2 
+    sections:
+    fields:
+      ebikeHeader1:
+        label: Selecteer een afbeelding
+        type: files
+        multiple: false
+        layout: cards
+  - width: 1/2 
+    sections:
+    fields:
+      ebikeHeader2:
+        label: Selecteer een afbeelding
+        type: files
+        multiple: false
+        layout: cards      
+
+# -------  Hero section  -------
+
+  - width: 1/1
+    sections:
+    fields:
+      line1:
+        type: line
+  - width: 1/1
+    fields: 
+      scrollPinSection:
+        label: Scroll pin section
+        type: headline
+  - width: 1/2 
+    sections:
+    fields:
+      scrollTitle1:
+        label: Titel blok 1
+        type: text      
+      scrollText1:
+        label: Tekst blok 1
+        type: textarea   
+      scrollImage1:
+        label: Afbeelding blok 1
+        type: files
+        multiple: false   
+  - width: 1/2 
+    sections:
+    fields:
+      scrollTitle2:
+        label: Titel blok 2
+        type: text      
+      scrollText2:
+        label: Tekst blok 2
+        type: textarea  
+      scrollImage2:
+        label: Afbeelding blok 2
+        type: files
+        multiple: false   
+  - width: 1/1
+    sections:
+    fields:
+      line2:
+        type: line      
+  - width: 1/2 
+    sections:
+    fields:
+      scrollTitle3:
+        label: Titel blok 3
+        type: text      
+      scrollText3:
+        label: Tekst blok 3
+        type: textarea   
+      scrollImage3:
+        label: Afbeelding blok 3
+        type: files  
+  - width: 1/2 
+    sections:
+    fields:
+      scrollTitle4:
+        label: Titel blok 4
+        type: text      
+      scrollText4:
+        label: Tekst blok 4
+        type: textarea   
+      scrollImage4:
+        label: Afbeelding blok 4
+        type: files
+        
+  - width: 1/1
+    sections:
+    fields:
+      line3:
+        type: line
+  - width: 1/1
+    fields: 
+      project1VideoSection:
+        label: Full width video
+        type: headline
+  - width: 1/2 
+    sections:
+    fields:
+      fullVideo:
+        label: Full width video
+        type: files
+        multiple: false
+        layout: cards      

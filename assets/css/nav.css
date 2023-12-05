@@ -1,0 +1,220 @@
+header .container nav ul li a {
+    color: inherit;
+    font-size: 18px;
+    list-style: none;
+  }
+
+a,
+ul, 
+li  {
+    text-decoration: none;
+    list-style: none;
+}
+
+header .container nav > ul> li > a::after {
+    content: '';
+    display: block;
+    margin: auto;
+    height: 2px;
+    width: 0;
+    /* top: 12px; */
+    margin-top: 6px;
+    background: transparent;
+    transition: all 0.3s;
+  }
+
+  header .container nav > ul > li > a:hover::after, nav > ul > li > a.active-nav::after {
+    width: 100%;
+    background: var(--clr-blue-1);
+  }
+
+  header nav ul li a:hover, header nav ul li a {
+    color: var(--clr-grey-1);
+  }
+  
+
+  .hamburger {
+    position: relative;
+    display: block;
+    width: 34px;
+    cursor: pointer;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: 0 0;
+    outline: 0;
+    border: none;
+  }
+  
+  .hamburger .bar,
+  .hamburger:after,
+  .hamburger:before {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: #fff;
+    margin: 6px 0;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  .hamburger.is-active:before {
+    -webkit-transform: rotate(-45deg) translate(-8px,6px);
+    transform: rotate(-45deg) translate(-8px,6px)
+  }
+  
+  .hamburger.is-active:after {
+    -webkit-transform: rotate(45deg) translate(-6px,-4px);
+    transform: rotate(45deg) translate(-6x,-4px)
+  }
+  
+  .hamburger.is-active .bar {
+    opacity: 0
+  }
+  
+  .mobile-nav {
+    position: fixed;
+    top: 0;
+    left: 100%;
+    width: 100%;
+    min-height: 100vh;
+    display: block;
+    z-index: 98;
+    background-color: var(--clr-grey-1);
+    padding-top: 175px;
+    -webkit-transition: .4s;
+    transition: .4s;
+    z-index: 9999;
+  }
+  
+  .mobile-nav.is-active {
+    left: 0;
+  }
+  
+  .mobile-nav > ul > li > a {
+    display: block;
+    width: 100%;
+    max-width: 200px;
+    margin: 0 auto 16px;
+    text-align: center;
+    padding: 12px 16px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+  }
+  
+  @media (min-width:768px) {
+    .mobile-nav {
+      display: none;
+    }
+    .hamburger {
+      display: none;
+    }
+  }
+  
+  header {
+    color: var(--clr-blue-1);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 99;
+  }
+
+  header nav ul {
+    align-items: center;
+  }
+  
+  header .container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+  
+  @media (max-width:767px) {
+    header .container {
+      justify-content: end;
+    }
+  
+    header h2 {
+      display: none;
+    }
+  }
+  
+  header .container h2 {
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--clr-blue-1);
+  }
+  
+  header .container h2 span {
+    color: var(--clr-grey-1);
+  }
+  
+  header .container nav ul {
+    display: -ms-grid;
+    display: grid;
+    grid-gap: 32px;
+    grid-template-columns: repeat(4,auto);
+  }
+  
+  @media (max-width:767px) {
+    header .container nav {
+      display: none;
+    }
+  }
+
+  
+  /* -----------------------------------  Navigation scroll  --------------------------------------------- */
+
+
+header.is-scrolling {
+  background-color: var(--clr-blue-1);
+  /* backdrop-filter: blur(10px); */
+  transition: .2s;
+  color: var(--clr-neutral-white);
+}
+
+header.is-scrolling .container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+header.is-scrolling .container h2 {
+  color: var(--clr-grey-1);
+}
+
+header.is-scrolling .container h2 span {
+  color: var(--clr-neutral-white);
+}
+
+header.is-scrolling .container nav > ul > li > a:hover::after, nav > ul > li > a.active-nav::after {
+  background: white;
+  
+}
+
+header.is-scrolling .button.primary {
+  border: 1px solid var(--clr-neutral-white);
+  color: var(--clr-neutral-white);
+}
+
+header.is-scrolling .button.primary:hover {
+  background-color: var(--clr-neutral-white);
+  color: var(--clr-blue-1);
+}
+
+@media (max-width:767px) {
+  header.is-scrolling {
+    background-color: unset;
+    backdrop-filter: unset;
+  }  
+}
