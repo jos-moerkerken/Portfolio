@@ -10,7 +10,9 @@
     <div class="container big">
     <ul>
         <?php foreach ($page->children()->listed() as $item): ?>
+            
             <li><a href="<?= $item->url() ?>"><?= $item->title() ?></a></li>
+            
         <?php endforeach ?>
     </ul>
     </div>

@@ -41,15 +41,14 @@ gsap.to('.marquee.hide', {
 
 // --------------- Navigation mobile ---------------
 
+
 const menu_btn = document.querySelector('.hamburger');
-	const mobile_menu = document.querySelector('.mobile-nav');
+const mobile_menu = document.querySelector('.mobile-nav');
 
-	menu_btn.addEventListener('click', function () {
-		menu_btn.classList.toggle('is-active');
-		mobile_menu.classList.toggle('is-active');
-	});
-
-
+menu_btn.addEventListener('click', function () {
+  menu_btn.classList.toggle('is-active');
+  mobile_menu.classList.toggle('is-active');
+});
 
 
 // --------------- Navigation scroll ---------------
@@ -62,21 +61,13 @@ window.onload = function () {
 			document.querySelector("header").classList.remove('is-scrolling');
 		}
 	});
-
-	const menu_btn = document.querySelector('.hamburger');
-	const mobile_menu = document.querySelector('.mobile-nav');
-
-	menu_btn.addEventListener('click', function () {
-		menu_btn.classList.toggle('is-active');
-		mobile_menu.classList.toggle('is-active');
-	});
 }
-
 
 // --------------- Second nav ---------------
 
 
 const nav = document.getElementById("nav");
+
 
 for(const link of nav.getElementsByTagName("a")) {
     link.onmousemove = e => {
@@ -87,7 +78,6 @@ for(const link of nav.getElementsByTagName("a")) {
     img.style.top = `${e.clientY - rect.top}px`;
     }
 }
-
 
 // --------------- Video scale on scroll ---------------
 
@@ -174,32 +164,61 @@ let bgImage = document.querySelector(".video-container");
       }
     })
 
-    
-
-    const races = document.querySelector(".scrollQuote .content");
-    console.log(races.offsetWidth)
-    
-    function getScrollAmount() {
-      let racesWidth = races.scrollWidth;
-      return -(racesWidth - window.innerWidth);
-    }
-    
-    const tween = gsap.to(races, {
-      x: getScrollAmount,
-      duration: 3,
-      ease: "none",
-    });
-    
-    
-    ScrollTrigger.create({
-      trigger:".scrollQuote",
-      start:"top",
-      end: () => `+=${getScrollAmount() * -1}`,
-      pin:true,
-      animation:tween,
-      scrub:1,
-      invalidateOnRefresh:true,
   
-    })
     
+const container = document.querySelector(".scrollContainer");
+const sections = gsap.utils.toArray(".scrollContainer section");
+const texts = gsap.utils.toArray(".anim");
+const mask = document.querySelector(".mask");
+
+let scrollTween = gsap.to(sections, {
+  xPercent: -100 * (sections.length - 1),
+  ease: "none",
+  scrollTrigger: {
+    trigger: ".scrollContainer",
+    pin: true,
+    scrub: 1,
+    end: "+=3000",
+    //snap: 1 / (sections.length - 1),
+    // markers: true,
+  }
+});
+
+console.log(1 / (sections.length - 1))
+
+//Progress bar animation
+
+gsap.to(mask, {
+  width: "100%",
+  scrollTrigger: {
+    trigger: ".wrapper",
+    start: "top left",
+    scrub: 1
+  }
+});
+
+// whizz around the sections
+sections.forEach((section) => {
+  // grab the scoped text
+  let text = section.querySelectorAll(".anim");
+  
+  // bump out if there's no items to animate
+  if(text.length === 0)  return 
+  
+  // do a little stagger
+  gsap.from(text, {
+    y: 0,
+    opacity: 0,
+    duration: 2,
+    ease: "power3",
+    stagger: 0.1,
+    scrollTrigger: {
+      trigger: section,
+      containerAnimation: scrollTween,
+      start: "left center",
+      // markers: true
+    }
+  });
+});
+
     

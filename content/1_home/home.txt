@@ -10,27 +10,39 @@ Herosubtitle: ...and a beginning front-end developer by night.
 
 ----
 
-Heroimage: - file://Ymg6jzTbNeGwvRqE
+Heroimage: - file://dOV3cBgmOCftSd75
 
 ----
 
-Introtext: Bacon ipsum dolor amet venison jowl picanha pork chop ham hock. Landjaeger sirloin pork chop burgdoggen sausage spare ribs, meatball turkey meatloaf bacon filet mignon t-bone. Jerky kielbasa flank, alcatra fatback shankle meatloaf. Biltong porchetta doner chislic. Bacon pork beef ribs cupim.
+Introtext: I’m focused on creating meaningful experiences through design.
 
 ----
 
-Navimage1: - file://hPgQlZ0VpsD8zvtt
+Navimage1: - file://8ZdddBUnb1Sc59wF
 
 ----
 
-Navimage2: - file://8ZdddBUnb1Sc59wF
+Navimage2: - file://iley0wjpQQhJhxVu
 
 ----
 
-Navimage3: - file://iley0wjpQQhJhxVu
+Navimage3: - file://kl1kuPKKvgarPW4r
 
 ----
 
-Navimage4: - file://kl1kuPKKvgarPW4r
+Navimage4: - file://hPgQlZ0VpsD8zvtt
+
+----
+
+Scrolltext1: Als product designer ben ik verantwoordelijk voor het vertalen van gebruikersbehoeften naar aantrekkelijke en functionele ontwerpen. In nauwe samenwerking met teams zoals product owners, conversiespecialisten en CX-designers stem ik mijn ontwerpen af op de gezamenlijke doelstellingen. Mijn creatieve proces omvat schetsen, wireframes en low- & high fidelity prototypes die ik vervolgens test bij de doelgroep. Feedback van collega's en stakeholders gebruik ik om mijn ontwerpen te verfijnen en te optimaliseren.
+
+----
+
+Scrolltext2: Als UX/UI designer focus ik op het creëren van een naadloze en plezierige gebruikerservaring voor digitale producten. Mijn werkzaamheden omvatten het begrijpen van gebruikersbehoeften, het ontwerpen van intuïtieve interfaces en het optimaliseren van de interactieflow. Door middel van wireframes, prototypen en visuele ontwerpen zorg ik voor een effectieve en aantrekkelijke gebruikersinterface.
+
+----
+
+Scrolltext3: De skills die ik heb opgedaan als oud freelancer in motion design, heb ik mee kunnen in mijn rol als UX/UI en product designer. Van kleine micro animaties tot volledig geïllustreerde animaties op een 404 pagina: zolang het maar een functie heeft en het de gebruiker niet afleidt van het oorspronkelijke doel.
 
 ----
 
@@ -55,6 +67,18 @@ Scrollquote: "Ik heb het nog nooit gedaan, dus ik denk dat ik het wel kan."
 ----
 
 Footerimage: - file://WXnfSYK47HajNt4X
+
+----
+
+Scrollimage1: - file://hPgQlZ0VpsD8zvtt
+
+----
+
+Scrollimage2: 
+
+----
+
+Scrollimage3: 
 
 ----
 
