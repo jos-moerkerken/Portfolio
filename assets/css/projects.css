@@ -8,3 +8,38 @@ section.projects-title h1 {
     color: var(--clr-blue-1);
     line-height: 1.25;
 }
+
+.projectGrid {
+    width: 100vw;
+    height: auto;
+    margin-bottom: var(--section-pading-small);
+}
+
+.projectGrid .container.big ul {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    width: 100%;
+    gap: 2.4rem;
+}
+
+
+.projectGrid li {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    width: auto;
+    aspect-ratio: 2/1;
+    background-color: var(--clr-blue-1);
+}
+
+.projectGrid li a {
+    font-size: 20px;
+    color: white;
+}
+
+.wrapper {
+    position: relative;
+    overflow-x: hidden;
+
+}

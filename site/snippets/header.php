@@ -38,9 +38,11 @@
 		</div>
 	</header>
 	<nav class="mobile-nav">
+		<ul>
 		<?php foreach ($site->children()->listed() as $item): ?>
-			<li><a class="test" href="<?= $item->url() ?>"><?= $item->title() ?></a></li>
+			<li><a href="<?= $item->url() ?>"><?= $item->title() ?></a></li>
 		<?php endforeach ?>
+		</ul>
 	</nav>
 
   

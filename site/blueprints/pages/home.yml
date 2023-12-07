@@ -82,12 +82,46 @@ columns:
         type: files
         multiple: false  
 
-  # -------  Video section  -------
+      
+# -------  Horizontal text scroll  -------
 
   - width: 1/1
     sections:
     fields:
       line3:
+        type: line
+  - width: 1/1
+    fields: 
+      scrollText:
+        label: Horizontale text scroll
+        type: headline  
+  - width: 1/2
+    sections:
+    fields:
+      scrollText1:
+        label: Tekst 1
+        type: textarea
+  - width: 1/2
+    sections:
+    fields:
+      scrollText2:
+        label: Tekst 2
+        type: textarea  
+  - width: 1/2
+    sections:
+    fields:
+      scrollText3:
+        label: Tekst 3
+        type: textarea
+        maxLength: 400  
+
+
+  # -------  Video section  -------
+
+  - width: 1/1
+    sections:
+    fields:
+      line4:
         type: line
   - width: 1/1
     sections:
@@ -108,7 +142,7 @@ columns:
   - width: 1/1
     sections:
     fields:
-      line4:
+      line5:
         type: line
   - width: 1/1
     sections:
@@ -148,7 +182,7 @@ columns:
   - width: 1/1
     sections:
     fields:
-      line5:
+      line6:
         type: line     
   - width: 1/2
     sections:

@@ -81,7 +81,7 @@ header .container nav > ul> li > a::after {
     min-height: 100vh;
     display: block;
     z-index: 98;
-    background-color: var(--clr-grey-1);
+    background-color: var(--clr-blue-1);
     padding-top: 175px;
     -webkit-transition: .4s;
     transition: .4s;
@@ -171,7 +171,13 @@ header .container nav > ul> li > a::after {
     header .container nav {
       display: none;
     }
+    
+    header {
+      z-index: 99999;
+    }
   }
+
+
 
   
   /* -----------------------------------  Navigation scroll  --------------------------------------------- */
@@ -212,9 +218,9 @@ header.is-scrolling .button.primary:hover {
   color: var(--clr-blue-1);
 }
 
-@media (max-width:767px) {
+/* @media (max-width:767px) {
   header.is-scrolling {
     background-color: unset;
     backdrop-filter: unset;
   }  
-}
+} */

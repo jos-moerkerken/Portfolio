@@ -5,7 +5,7 @@
 			<div class="container big">
 				<div class="footer-col">
 					<div class="title-col">
-						<h1 id="split-text">Let's <br>connect.</h1>			
+						<h1 id="split-text">Tijd voor <br>koffie.</h1>			
 						<?php if($image = $page->footerImage()->toFile()): ?>
                         	<img class="footerImage" src="<?= $image->url() ?>" alt="">
                     	<?php endif ?>			
@@ -19,12 +19,12 @@
 				<div class="iconContainer">
 					<ul>
 						<li>
-							<a href="<?= $page->youtubeURL() ?>"><i class="fab fa-brands fa-linkedin icon"></i>    </a>
+							<a href="https://www.linkedin.com/in/jos-moerkerken-170543157/" target="_blank" rel="noopener noreferrer"><i class="fab fa-brands fa-linkedin icon"></i>    </a>
 						</li>	
 						<li>
-							<a href="<?= $page->instagramURL() ?>"><i class="fab fa-brands fa-instagram icon"></i></a></li>
+							<a href="https://www.instagram.com/josmoerkerken/" target="_blank" rel="noopener noreferrer"><i class="fab fa-brands fa-instagram icon"></i></a></li>
 						<li>
-							<a href="<?= $page->twitterURL() ?>"><i class="fa-regular fa-envelope icon"></i></a></li>
+							<a href="mailto:josmoerkerken@gmail.com"><i class="fa-regular fa-envelope icon"></i></a></li>
 					</ul>
 				</div>
 			</div>
