@@ -11,7 +11,7 @@
                     	<?php endif ?>			
 					</div>
 				<hr/>
-				<p class="footerText">Bacon ipsum dolor amet venison jowl picanha pork chop ham hock. Landjaeger sirloin pork chop burgdoggen sausage spare ribs, meatball turkey meatloaf bacon filet mignon t-bone. Jerky kielbasa flank, alcatra fatback shankle meatloaf. Biltong porchetta doner chislic. Bacon pork beef ribs cupim.</p>
+				<p class="footerText">Op zoek naar een samenwerking of wil je gewoon even kennismaken? Neem hieronder contact op en laten we afspreken voor (virtuele) koffie!</p>
 				<div class="contactContainer">
 					<div class="contact"><i class="fa-regular fa-envelope icon"></i>josmoerkerken@gmail.com</div>
 					<div class="contact"><i class="fa-solid fa-phone icon"></i>+31 6 81334472</div>
