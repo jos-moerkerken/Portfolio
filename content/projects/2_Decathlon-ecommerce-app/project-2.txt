@@ -2,7 +2,7 @@ Title: Decathlon E-commerce app
 
 ----
 
-Client: Decathlon Nederland
+Opdrachtgever: Decathlon Nederland
 
 ----
 
@@ -10,13 +10,6 @@ Type: App
 
 ----
 
-Role: UX UI - Product design
-
-----
-
-Topic: E-commerce app
-
-----
 
 Introtext: Bacon ipsum dolor amet venison jowl picanha pork chop ham hock. Landjaeger sirloin pork chop burgdoggen sausage spare ribs, meatball turkey meatloaf bacon filet mignon t-bone. Jerky kielbasa flank, alcatra fatback shankle meatloaf. Biltong porchetta doner chislic. Bacon pork beef ribs cupim.
 

@@ -2,21 +2,14 @@ Title: Animations
 
 ----
 
-Client: Multiple
+Opdrachtgever: --
 
 ----
 
-Type: Animations
+Type: Motion design
 
 ----
 
-Role: Motion design
-
-----
-
-Topic: --
-
-----
 
 Introtext: Bacon ipsum dolor amet venison jowl picanha pork chop ham hock. Landjaeger sirloin pork chop burgdoggen sausage spare ribs, meatball turkey meatloaf bacon filet mignon t-bone. Jerky kielbasa flank, alcatra fatback shankle meatloaf. Biltong porchetta doner chislic. Bacon pork beef ribs cupim.
 

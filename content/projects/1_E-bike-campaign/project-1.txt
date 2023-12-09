@@ -96,19 +96,11 @@ Project1macbook: - file://Ipy3qlBGNcIY0o2Q
 
 ----
 
-Client: Decathlon Nederland
+Opdrachtgever: Decathlon Nederland
 
 ----
 
 Type: Branding / landing page
-
-----
-
-Role: UX UI - Product design
-
-----
-
-Topic: E-bike campaign
 
 ----
 

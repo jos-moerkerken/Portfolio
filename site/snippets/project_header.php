@@ -4,20 +4,12 @@
             <h1><?= $page->title() ?></h1>
             <dl>
                 <li>
-                    <dt>Client</dt>
-                    <dd><?= $page->client() ?></dd>
+                    <dt>Opdrachtgever</dt>
+                    <dd><?= $page->opdrachtgever() ?></dd>
                 </li>
                 <li>
                     <dt>Type</dt>
                     <dd><?= $page->type() ?></dd>
-                </li>
-                <li>
-                    <dt>Role</dt>
-                    <dd><?= $page->role() ?></dd>
-                </li>
-                <li>
-                    <dt>Topic</dt>
-                    <dd><?= $page->topic() ?></dd>
                 </li>
             </dl>
             <p><?= $page->introText() ?></p>

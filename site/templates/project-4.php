@@ -2,6 +2,7 @@
 <?php snippet('project_header') ?>
 
 <section class="animations">
+    <div class="container big">
     <div class="animation">
         <dotlottie-player class="lottie" src="https://lottie.host/776dab9b-abe9-44c1-92de-d49321892aee/rNXqVei8ob.json" background="transparent" speed="1" direction="1" mode="normal" loop autoplay></dotlottie-player>
         <h4>Er is onderhoud aan deze pagina</h4>
@@ -32,6 +33,7 @@
         <h4>Het retourproces</h4>
         <p>Retourneren - Decathlon e-commerce app</p>
     </div> 
+    </div>
 </section>
 
 <?php snippet('footer') ?>
