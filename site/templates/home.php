@@ -53,7 +53,6 @@
                     </a><?php endif ?>
                     <div class="tagContainer">
                         <div class="tag">UX / UI</div>
-                        <div class="tag">Front end</div>
                     </div>
                 </div>
                 <?php if($p = page('projects/E-bike-campaign')): ?><a href="<?= $p->url() ?>">

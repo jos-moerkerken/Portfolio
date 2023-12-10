@@ -34,7 +34,7 @@ Navimage4: - file://hPgQlZ0VpsD8zvtt
 
 ----
 
-Scrolltext1: Als product designer ben ik verantwoordelijk voor het vertalen van gebruikersbehoeften naar aantrekkelijke en functionele ontwerpen. In nauwe samenwerking met teams zoals product owners, conversiespecialisten en CX-designers stem ik mijn ontwerpen af op de gezamenlijke doelstellingen. Mijn creatieve proces omvat schetsen, wireframes en low- & high fidelity prototypes die ik vervolgens test bij de doelgroep. Feedback van collega's en stakeholders gebruik ik om mijn ontwerpen te verfijnen en te optimaliseren.
+Scrolltext1: Als product designer ben ik verantwoordelijk voor het vertalen van gebruikersbehoeften naar aantrekkelijke en functionele ontwerpen. In nauwe samenwerking met product owners, conversiespecialisten en CX-designers stem ik mijn ontwerpen af op de gezamenlijke doelstellingen. Mijn creatieve proces omvat schetsen, wireframes en low- & high fidelity prototypes die ik vervolgens test bij de doelgroep. Feedback van collega's en stakeholders gebruik ik om mijn ontwerpen te verfijnen en te optimaliseren.
 
 ----
 
