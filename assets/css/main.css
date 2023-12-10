@@ -391,7 +391,7 @@ hr {
   section.hero   {
     padding-left: .8rem;
     padding-right: .8rem;
-    padding-top: 12rem;
+    padding-top: 8rem;
   }
 
   .hero .container {
@@ -409,6 +409,11 @@ hr {
     position: absolute;
     top: unset;
     bottom: 0;
+  }
+
+  .track .content:hover {
+    -webkit-text-stroke-width: 0px;
+    color: var(--clr-neutral-white);
   }
 }
 
@@ -462,18 +467,8 @@ section.intro-text {
 
 section.sec-nav {
   overflow: visible;
-  margin-bottom: calc(var(--section-margin) * 2);
+  margin-bottom: calc(var(--section-margin) * 1);
 }
-
-/* .sec-nav .navigation::before {
-  content: '';
-  display: block;
-  position: absolute;
-  border: .5px solid var(--clr-grey-2);
-  height: 100%;
-  left: -80px;
-  top: 0;
-} */
 
 .navigation {
   position: relative;
@@ -531,7 +526,7 @@ section.sec-nav {
   width: 100%;
   height: auto;
   color: var(--clr-blue-1);
-  font-size: clamp(36px, 3vw, 75px);
+  font-size: clamp(26px, 3vw, 75px);
   line-height: 110%;
   font-weight: 400;
   text-decoration: none;
@@ -592,14 +587,17 @@ section.sec-nav {
     display: none;
   }
   .navigation .navElement {
-    display: block;
+    /* display: block; */
+    align-items: start;
+  }
+
+  .navElement > .navTitle { 
+    width: 70%;
   }
   .arrow {
     right: 0;
     padding: 12px 20px;
     width: auto;
-    width: 60px;
-    margin-top: 2rem;
   }
   .arrow svg {
     width: 12px;
@@ -610,7 +608,6 @@ section.sec-nav {
   }
   section.sec-nav {
     margin: 0;
-    
   }  
 }
 

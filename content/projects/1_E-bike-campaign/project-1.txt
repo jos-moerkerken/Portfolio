@@ -68,7 +68,62 @@ Scrollimage4: - file://TrvktYh8p4WPfeAL
 
 ----
 
-Fullvideo: - file://kheJu5fEafjfhAyu
+Scrolltitlemobile1: Research fase
+
+----
+
+Scrolltextmobile1:
+
+Het doel van deze e-bike campagne was om meer aandacht te krijgen op de e-bikes van Decathlon. Hierbij werden er 2 e-bikes uitgelicht: de Elops 900E en de Cargo R500. Omdat dit 2 totaal ander soort fietsen van elkaar zijn, zijn we begonnen met het in kaart brengen van de doelgroep van beide e-bikes. Waar de Cargo fiets vooral gericht was om een gezin met kinderen, was de 900E meer gericht op jongeren waarbij de looks van de fiets een grote rol spelen.<br>
+<br>
+Per fiets werd in kaart gebracht...
+<br>...wat de behoeftes zijn van de doelgroep.
+<br>...naar welke kenmerken en eigenschapen gezocht werd van de fiets. 
+<br>...welke informatie de klant nodig heeft bij het maken van een keuze bij een e-bike.
+
+----
+
+Scrollimagemobile1: - file://9yc8TEugSRDk7y1R
+
+----
+
+Scrolltitlemobile2: Wireframing
+
+----
+
+Scrolltextmobile2: Nadat het duidelijk was hoe de doelgroep eruit zag voor beide fietsen, gingen we aan de slag met de structuur van de pagina. Hierbij lag de focus op het prioriteren van de informatie, maar ook op de interactie van de pagina.<br>
+
+----
+
+Scrollimagemobile2: - file://uK6OB3Vfm4FNlmtl
+
+----
+
+Scrolltitlemobile3: Moodboards & styling
+
+----
+
+Scrolltextmobile3: Samen met het marketing & communicatie team en design team, zijn we aan de slag gegaan met de styling die gehanteerd zou worden tijdens de campagne. Deze styling was immers niet alleen belangrijk voor de landingspagina, maar uiteraard voor de gehele customer journey van de klant. Zo wilden we herkenbaarheid creëren door de styling op paid social, in de winkel en online te gebruiken.
+
+----
+
+Scrollimagemobile3: - file://tAHChFty1D15rMQ9
+
+----
+
+Scrolltitlemobile4: UI design & animating
+
+----
+
+Scrolltextmobile4: Bacon ipsum dolor amet shoulder meatball turkey sausage, short ribs swine turducken cupim sirloin shank tri-tip ham hock. Landjaeger short ribs ham sirloin porchetta beef ribs. Pork chop ribeye meatball burgdoggen flank tongue short ribs pork loin chislic. Chuck drumstick leberkas pig cupim filet mignon flank sausage.
+
+----
+
+Scrollimagemobile4: - file://TrvktYh8p4WPfeAL
+
+----
+
+Fullvideo: - file://a2cDCC2NXXpF85gl
 
 ----
 

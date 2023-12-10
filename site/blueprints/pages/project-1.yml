@@ -26,7 +26,7 @@ columns:
         multiple: false
         layout: cards      
 
-# -------  Hero section  -------
+# -------  Scroll pin desktop section  -------
 
   - width: 1/1
     sections:
@@ -94,10 +94,81 @@ columns:
         label: Afbeelding blok 4
         type: files
         
+
+# -------  Scroll pin mobile section  -------
+
   - width: 1/1
     sections:
     fields:
       line3:
+        type: line
+  - width: 1/1
+    fields: 
+      scrollPinSectionMobile:
+        label: Scroll pin section mobile
+        type: headline
+  - width: 1/2 
+    sections:
+    fields:
+      scrollTitleMobile1:
+        label: Titel blok 1
+        type: text      
+      scrollTextMobile1:
+        label: Tekst blok 1
+        type: textarea   
+      scrollImageMobile1:
+        label: Afbeelding blok 1
+        type: files
+        multiple: false   
+  - width: 1/2 
+    sections:
+    fields:
+      scrollTitleMobile2:
+        label: Titel blok 2
+        type: text      
+      scrollTextMobile2:
+        label: Tekst blok 2
+        type: textarea  
+      scrollImageMobile2:
+        label: Afbeelding blok 2
+        type: files
+        multiple: false   
+  - width: 1/1
+    sections:
+    fields:
+      line4:
+        type: line      
+  - width: 1/2 
+    sections:
+    fields:
+      scrollTitleMobile3:
+        label: Titel blok 3
+        type: text      
+      scrollTextMobile3:
+        label: Tekst blok 3
+        type: textarea   
+      scrollImageMobile3:
+        label: Afbeelding blok 3
+        type: files  
+  - width: 1/2 
+    sections:
+    fields:
+      scrollTitleMobile4:
+        label: Titel blok 4
+        type: text      
+      scrollTextMobile4:
+        label: Tekst blok 4
+        type: textarea   
+      scrollImageMobile4:
+        label: Afbeelding blok 4
+        type: files
+
+
+
+  - width: 1/1
+    sections:
+    fields:
+      line5:
         type: line
   - width: 1/1
     fields: 

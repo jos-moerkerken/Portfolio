@@ -17,22 +17,20 @@ header .container nav > ul> li > a::after {
     margin: auto;
     height: 2px;
     width: 0;
-    /* top: 12px; */
+    left: 0;
     margin-top: 6px;
-    background: transparent;
     transition: all 0.3s;
+    background: var(--clr-blue-1);
   }
 
   header .container nav > ul > li > a:hover::after, nav > ul > li > a.active-nav::after {
     width: 100%;
-    background: var(--clr-blue-1);
   }
 
   header nav ul li a:hover, header nav ul li a {
     color: var(--clr-grey-1);
   }
-  
-
+ 
   .hamburger {
     position: relative;
     display: block;
