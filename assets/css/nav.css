@@ -172,6 +172,9 @@ header .container nav > ul> li > a::after {
     
     header {
       z-index: 99999;
+      left: unset;
+      right: 0;
+      width: auto;
     }
   }
 
