@@ -4,23 +4,31 @@ gsap.registerPlugin(ScrollTrigger);
 
 
 
+
 // window.addEventListener('DOMContentLoaded', ()=> {
-//   $(document).ready(function() {
-//     gsap.to('.introAnimation', {
-//       top: '-100vh',
-//       delay: 5,
-//       duration: 2,
-//       ease: Expo.easeOut
+//   if (!sessionStorage.getItem("introLoaded")) {
+//     $(".introAnimation").removeClass("hide");
+//     $(".marquee").removeClass("hide");
+//     sessionStorage.setItem("introLoaded", "true");
+//     $(document).ready(function() {
+//       gsap.to('.introAnimation', {
+//         top: '-100vh',
+//         delay: 5,
+//         duration: 2,
+//         ease: Expo.easeOut
+//       })
 //     })
-//   })
-//   })
+//   }
+// })
+
+
 
 window.addEventListener('DOMContentLoaded', ()=> {
   if (!sessionStorage.getItem("introLoaded")) {
-    $(".introAnimation").removeClass("hide");
-    $(".marquee").removeClass("hide");
+    document.getElementByClassName("introAnimation").classList.remove("hide");
+    document.getElementByClassName("marquee").classList.remove("hide");
     sessionStorage.setItem("introLoaded", "true");
-    $(document).ready(function() {
+    document.ready(function() {
       gsap.to('.introAnimation', {
         top: '-100vh',
         delay: 5,
@@ -30,6 +38,7 @@ window.addEventListener('DOMContentLoaded', ()=> {
     })
   }
 })
+
 
 gsap.to('.marquee.hide', {
   top: '0px',
@@ -143,11 +152,17 @@ let bgImage = document.querySelector(".video-container");
 
 
 
-      $("header .button").click(function() {
-        $('html,body').animate({
-            scrollTop: $(".footer").offset().top},
-            'slow');
-    });
+    //   $("header .button").click(function() {
+    //     $('html,body').animate({
+    //         scrollTop: $(".footer").offset().top},
+    //         'slow');
+    // });
+
+  //   document.querySelector("header .button").click(function() {
+  //     document.querySelector('html,body').animate({
+  //         scrollTop: document.querySelector(".footer").offset().top},
+  //         'slow');
+  // });
 
 
     var splitText = new SplitType('#split-text')
