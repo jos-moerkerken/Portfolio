@@ -39,8 +39,8 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/ScrollTrigger.min.js"></script>
 		<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 		<script src="https://unpkg.com/split-type"></script> 
- 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
-		<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+ 		<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script> -->
+		
     	<script src="https://unpkg.com/@barba/core"></script>
 		<script src="https://kit.fontawesome.com/d3c80d56e2.js" crossorigin="anonymous"></script>
 	
