@@ -25,23 +25,17 @@ gsap.from(".project.animate-2", {
 
 
 
-  gsap.to(".parallax", {
-    yPercent: -25,
-    ease: "none",
-    scrollTrigger: {
-      trigger: ".parallax",
-      // start: "top bottom", // the default values
-      // end: "bottom top",
-      scrub: true
-    }, 
-  });
+  // gsap.to(".parallax", {
+  //   yPercent: -25, 
+  //   ease: "none",
+  //   scrollTrigger: {
+  //     trigger: ".parallax",
+  //     // start: "top bottom", // the default values
+  //     // end: "bottom top",
+  //     scrub: true
+  //   }, 
+  // });
 
-
-  $("header .button").click(function() {
-    $('html,body').animate({
-        scrollTop: $(".footer").offset().top},
-        'slow');
-});
 
 
 

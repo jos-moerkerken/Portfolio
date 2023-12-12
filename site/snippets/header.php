@@ -29,7 +29,7 @@
 					<?php foreach ($site->children()->listed() as $item): ?>
 						<li><a href="<?= $item->url() ?>"><?= $item->title() ?></a></li>
 					<?php endforeach ?>
-					<div class="button primary">Contact</div>
+					<div class="button primary" id="contact">Contact</div>
 				</ul>
 			</nav>
 			<button class="hamburger">
