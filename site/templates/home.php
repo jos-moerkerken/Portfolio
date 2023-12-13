@@ -2,6 +2,19 @@
 <?php snippet('header') ?>
 
 
+<!-- <section class="test">
+    test
+</section>
+<section class="test">
+    test 2
+</section>
+<section class="test">
+    test 3
+</section>
+<section class="test">
+    test 4
+</section> -->
+
 <div class="introAnimation hide">
     <dotlottie-player class="introLottie" src="https://lottie.host/40c3148e-0c05-423b-95e2-6af95bcda30b/CtOv858nQm.json" background="transparent" speed="1" direction="1" mode="normal" autoplay></dotlottie-player>
     <div class="experience">

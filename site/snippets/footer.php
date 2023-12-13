@@ -36,19 +36,13 @@
   		</footer>
 		</main>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/ScrollTrigger.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.3/ScrollToPlugin.min.js"></script>
-		<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 		<script src="https://unpkg.com/split-type"></script> 
-		
-		
     	<script src="https://unpkg.com/@barba/core"></script>
 		<script src="https://kit.fontawesome.com/d3c80d56e2.js" crossorigin="anonymous"></script>
-	
 		<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
 
 		<?= js('assets/js/ScrollTrigger.min.js') ?>
-		<?= js('assets/js/ScrollSmoother.min.js') ?>
 		<?= js('assets/js/index.js') ?>
 		<?= js('assets/js/project.js') ?>
 		
